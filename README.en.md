@@ -34,6 +34,9 @@ If necessary, please make a backup in advance to avoid unnecessary consequences.
 ## One command installation & upgrade
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/nullptrX/v2-ui/master/install.sh)
+
+
+bash <(curl -Ls https://raw.githubusercontent.com/senowahyu62/v2-ui/master/install.sh)
 ```
 
 # Other operations
